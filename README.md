@@ -1,3 +1,3 @@
 # MenuCardReader
 
-This repo is participating in Hacketoberfest
+This repo is participating in Hacktoberfest
